@@ -179,6 +179,5 @@ Flutter Developer
 GitHub: muhammadusmanqureshi44
 
 License
-
 This project is available for educational and portfolio purposes. Contact the author before redistributing or using it commercially.
 │   └──
